@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab12_Printf_9Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab12_Printf_9Table.java" afterDir="false" />
-    </list>
+    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="20th Sep 2025" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +46,7 @@
     "Application.Lab37_Math_Max.executor": "Run",
     "Application.Lab38_Even_Odd.executor": "Run",
     "Application.Lab39_Max_Nos_3.executor": "Run",
+    "Application.Lab40_Age.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -148,7 +144,20 @@
       <option name="presentableId" value="Default" />
       <updated>1757856578762</updated>
     </task>
+    <task id="LOCAL-00001" summary="20th Sep 2025">
+      <option name="closed" value="true" />
+      <created>1758380427625</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758380427625</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20th Sep 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="20th Sep 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
