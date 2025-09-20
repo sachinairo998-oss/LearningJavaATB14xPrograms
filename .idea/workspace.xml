@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab12_Printf_9Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab12_Printf_9Table.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="32gyb2Jh9GkzJ8OowNJfjEJm86v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Lab12_Printf_9Table.executor": "Run",
+    "Application.Lab22_Concat_Inter.executor": "Run",
+    "Application.Lab23_Bodmas.executor": "Run",
+    "Application.Lab24_EqualS_Operator.executor": "Run",
+    "Application.Lab25_Arithmetic.executor": "Run",
+    "Application.Lab26_OR_AND_Gates.executor": "Run",
+    "Application.Lab27_All_Operators.executor": "Run",
+    "Application.Lab30_Interview.executor": "Run",
+    "Application.Lab32_Char_Int.executor": "Run",
+    "Application.Lab33_TypeCasting_1.executor": "Run",
+    "Application.Lab34_TypeCasting_Used.executor": "Run",
+    "Application.Lab35_Ternary_1.executor": "Run",
+    "Application.Lab36_Nested_Ternary.executor": "Run",
+    "Application.Lab37_Math_Max.executor": "Run",
+    "Application.Lab38_Even_Odd.executor": "Run",
+    "Application.Lab39_Max_Nos_3.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Sanjana/IdeaProjects/LearningJavaATB14xPrograms/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Lab40_Age">
+    <configuration name="Lab36_Nested_Ternary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_05_Ternary_Operator.Lab36_Nested_Ternary" />
+      <module name="LearningJavaATB14xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_05_Ternary_Operator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab37_Math_Max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_05_Ternary_Operator.Lab37_Math_Max" />
+      <module name="LearningJavaATB14xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_05_Ternary_Operator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab38_Even_Odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_05_Ternary_Operator.Lab38_Even_Odd" />
+      <module name="LearningJavaATB14xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_05_Ternary_Operator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab39_Max_Nos_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_05_Ternary_Operator.Lab39_Max_Nos_3" />
+      <module name="LearningJavaATB14xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_05_Ternary_Operator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab40_Age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_05_Ternary_Operator.Lab40_Age" />
+      <module name="LearningJavaATB14xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_05_Ternary_Operator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab40_Age" />
+        <item itemvalue="Application.Lab39_Max_Nos_3" />
+        <item itemvalue="Application.Lab38_Even_Odd" />
+        <item itemvalue="Application.Lab37_Math_Max" />
+        <item itemvalue="Application.Lab36_Nested_Ternary" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="" />
+      <created>1757856578762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757856578762</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ex_03_Operators/Lab22_Concat_Inter.java</url>
+          <line>3</line>
+          <properties class="ex_03_Operators.Lab22_Concat_Inter" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
