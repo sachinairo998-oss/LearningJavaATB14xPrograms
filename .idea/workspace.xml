@@ -28,38 +28,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Lab12_Printf_9Table.executor": "Run",
-    "Application.Lab22_Concat_Inter.executor": "Run",
-    "Application.Lab23_Bodmas.executor": "Run",
-    "Application.Lab24_EqualS_Operator.executor": "Run",
-    "Application.Lab25_Arithmetic.executor": "Run",
-    "Application.Lab26_OR_AND_Gates.executor": "Run",
-    "Application.Lab27_All_Operators.executor": "Run",
-    "Application.Lab30_Interview.executor": "Run",
-    "Application.Lab32_Char_Int.executor": "Run",
-    "Application.Lab33_TypeCasting_1.executor": "Run",
-    "Application.Lab34_TypeCasting_Used.executor": "Run",
-    "Application.Lab35_Ternary_1.executor": "Run",
-    "Application.Lab36_Nested_Ternary.executor": "Run",
-    "Application.Lab37_Math_Max.executor": "Run",
-    "Application.Lab38_Even_Odd.executor": "Run",
-    "Application.Lab39_Max_Nos_3.executor": "Run",
-    "Application.Lab40_Age.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Sanjana/IdeaProjects/LearningJavaATB14xPrograms/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Lab12_Printf_9Table.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab22_Concat_Inter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab23_Bodmas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab24_EqualS_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab25_Arithmetic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab26_OR_AND_Gates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab27_All_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab30_Interview.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab32_Char_Int.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab33_TypeCasting_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab34_TypeCasting_Used.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab35_Ternary_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab36_Nested_Ternary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab37_Math_Max.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab38_Even_Odd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab39_Max_Nos_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab40_Age.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Sanjana/IdeaProjects/LearningJavaATB14xPrograms/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Lab40_Age">
     <configuration name="Lab36_Nested_Ternary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_05_Ternary_Operator.Lab36_Nested_Ternary" />
@@ -160,8 +160,27 @@
       <option name="project" value="LOCAL" />
       <updated>1758380515770</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="20th Sep 2025">
+      <option name="closed" value="true" />
+      <created>1758380841638</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758380841638</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20th Sep 2025" />
