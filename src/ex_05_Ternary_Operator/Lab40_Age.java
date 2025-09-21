@@ -2,8 +2,13 @@ package ex_05_Ternary_Operator;
 
 public class Lab40_Age {
     public static void main(String[] args) {
-        int age = 59;
-        String age1 = (age < 18) ? (age > 25 ? "Adult" : "Minor") : (age < 60 ? "Sr Senior" : "Adult");
-        System.out.println(age1);
+        String user_input = args[0];
+        System.out.println(user_input);
+        System.out.println(user_input instanceof String);
+
+     // i/p - String o/p - Int
+       int age = Integer.parseInt(user_input);
+        String result = (age < 18) ? "Minor" : (age < 60 ? "Sr Senior" : "Adult");
+        System.out.println(result);
     }
 }

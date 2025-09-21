@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="20th Sep">
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab12_Printf_9Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab12_Printf_9Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Ternary_Operator/Lab38_Even_Odd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Ternary_Operator/Lab38_Even_Odd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Ternary_Operator/Lab39_Max_Nos_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Ternary_Operator/Lab39_Max_Nos_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_05_Ternary_Operator/Lab40_Age.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Ternary_Operator/Lab40_Age.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +26,18 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sachinairo998-oss"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sachinairo998-oss&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sachinairo998-oss/LearningJavaATB14xPrograms.git",
-    "accountId": "f22ffec8-190e-4b71-98bb-6caef9aecb3c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sachinairo998-oss/LearningJavaATB14xPrograms.git&quot;,
+    &quot;accountId&quot;: &quot;f22ffec8-190e-4b71-98bb-6caef9aecb3c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -62,10 +65,13 @@
     "Application.Lab38_Even_Odd.executor": "Run",
     "Application.Lab39_Max_Nos_3.executor": "Run",
     "Application.Lab40_Age.executor": "Run",
+    "Application.Lab41_CLI_Inputs.executor": "Run",
+    "Application.Lab41_Inc.executor": "Run",
+    "Application.Lab42_Adv_Inc.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging master",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Sanjana/IdeaProjects/LearningJavaATB14xPrograms/src/Main.java",
     "project.structure.last.edited": "Project",
@@ -75,46 +81,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab40_Age">
-    <configuration name="Lab36_Nested_Ternary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_05_Ternary_Operator.Lab36_Nested_Ternary" />
-      <module name="LearningJavaATB14xPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_05_Ternary_Operator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab37_Math_Max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_05_Ternary_Operator.Lab37_Math_Max" />
-      <module name="LearningJavaATB14xPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_05_Ternary_Operator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab38_Even_Odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_05_Ternary_Operator.Lab38_Even_Odd" />
-      <module name="LearningJavaATB14xPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_05_Ternary_Operator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab42_Adv_Inc">
     <configuration name="Lab39_Max_Nos_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_05_Ternary_Operator.Lab39_Max_Nos_3" />
       <module name="LearningJavaATB14xPrograms" />
@@ -131,6 +98,7 @@
     <configuration name="Lab40_Age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_05_Ternary_Operator.Lab40_Age" />
       <module name="LearningJavaATB14xPrograms" />
+      <option name="PROGRAM_PARAMETERS" value="59" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ex_05_Ternary_Operator.*" />
@@ -141,13 +109,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab41_CLI_Inputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_05_Ternary_Operator.Lab41_CLI_Inputs" />
+      <module name="LearningJavaATB14xPrograms" />
+      <option name="PROGRAM_PARAMETERS" value="60 Sachin M 34.17 123456789" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_05_Ternary_Operator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab41_PreInc_PostInc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_06_Increment_Decrement_Operator.Lab41_PreInc_PostInc" />
+      <module name="LearningJavaATB14xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_06_Increment_Decrement_Operator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab42_Adv_Inc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_06_Increment_Decrement_Operator.Lab42_Adv_Inc" />
+      <module name="LearningJavaATB14xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_06_Increment_Decrement_Operator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Lab41_PreInc_PostInc" />
+      <item itemvalue="Application.Lab42_Adv_Inc" />
+      <item itemvalue="Application.Lab41_CLI_Inputs" />
+      <item itemvalue="Application.Lab39_Max_Nos_3" />
+      <item itemvalue="Application.Lab40_Age" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab42_Adv_Inc" />
+        <item itemvalue="Application.Lab41_PreInc_PostInc" />
+        <item itemvalue="Application.Lab41_CLI_Inputs" />
         <item itemvalue="Application.Lab40_Age" />
         <item itemvalue="Application.Lab39_Max_Nos_3" />
-        <item itemvalue="Application.Lab38_Even_Odd" />
-        <item itemvalue="Application.Lab37_Math_Max" />
-        <item itemvalue="Application.Lab36_Nested_Ternary" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758381520813</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="20th Sep">
+      <option name="closed" value="true" />
+      <created>1758381708891</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1758381708891</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,6 +281,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ex_05_Ternary_Operator/Lab38_Even_Odd.java</url>
+          <line>3</line>
+          <properties class="ex_05_Ternary_Operator.Lab38_Even_Odd" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
