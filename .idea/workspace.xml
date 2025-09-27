@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="20th Sep">
+    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="21st Sep 2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_05_Ternary_Operator/Lab38_Even_Odd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Ternary_Operator/Lab38_Even_Odd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_05_Ternary_Operator/Lab39_Max_Nos_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Ternary_Operator/Lab39_Max_Nos_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_05_Ternary_Operator/Lab40_Age.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_05_Ternary_Operator/Lab40_Age.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +64,25 @@
     "Application.Lab40_Age.executor": "Run",
     "Application.Lab41_CLI_Inputs.executor": "Run",
     "Application.Lab41_Inc.executor": "Run",
-    "Application.Lab42_Adv_Inc.executor": "Run",
+    "Application.Lab42_Adv_Inc.executor": "Debug",
+    "Application.Lab43_If.executor": "Debug",
+    "Application.Lab43_If_Cond.executor": "Coverage",
+    "Application.Lab44_If_Cond.executor": "Run",
+    "Application.Lab45_Scanner.executor": "Debug",
+    "Application.Lab46_If.executor": "Run",
+    "Application.Lab47_If_ElseIf_Else.executor": "Run",
+    "Application.Lab48_7Days.executor": "Run",
+    "Application.Lab48_Days.executor": "Run",
+    "Application.Lab48_SwitchDays.executor": "Run",
+    "Application.Lab48_Switch_7Days.executor": "Run",
+    "Application.Lab49_Without_Break.executor": "Run",
+    "Application.Lab50_RealSwitch (1).executor": "Run",
+    "Application.Lab50_RealSwitch.executor": "Run",
+    "Application.Lab52_Interview2.executor": "Run",
+    "Application.Lab53_Jdk13Above.executor": "Run",
+    "Application.Lab54_Jdk13.executor": "Run",
+    "Application.Lab55_Interview3.executor": "Run",
+    "Application.Lab56_Interview4.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -78,16 +93,16 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab42_Adv_Inc">
-    <configuration name="Lab39_Max_Nos_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_05_Ternary_Operator.Lab39_Max_Nos_3" />
+  <component name="RunManager" selected="Application.Lab56_Interview4">
+    <configuration name="Lab52_Interview2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_Switch.Lab52_Interview2" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_05_Ternary_Operator.*" />
+          <option name="PATTERN" value="ex_08_Switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,13 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab40_Age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_05_Ternary_Operator.Lab40_Age" />
+    <configuration name="Lab53_Jdk13Above" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_Switch.Lab53_Jdk13Above" />
       <module name="LearningJavaATB14xPrograms" />
-      <option name="PROGRAM_PARAMETERS" value="59" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_05_Ternary_Operator.*" />
+          <option name="PATTERN" value="ex_08_Switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,13 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab41_CLI_Inputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_05_Ternary_Operator.Lab41_CLI_Inputs" />
+    <configuration name="Lab54_Jdk13_multiplecases" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_Switch.Lab54_Jdk13_multiplecases" />
       <module name="LearningJavaATB14xPrograms" />
-      <option name="PROGRAM_PARAMETERS" value="60 Sachin M 34.17 123456789" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_05_Ternary_Operator.*" />
+          <option name="PATTERN" value="ex_08_Switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab41_PreInc_PostInc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_06_Increment_Decrement_Operator.Lab41_PreInc_PostInc" />
+    <configuration name="Lab55_Interview3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_Switch.Lab55_Interview3" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_06_Increment_Decrement_Operator.*" />
+          <option name="PATTERN" value="ex_08_Switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab42_Adv_Inc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_06_Increment_Decrement_Operator.Lab42_Adv_Inc" />
+    <configuration name="Lab56_Interview4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_Switch.Lab56_Interview4" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_06_Increment_Decrement_Operator.*" />
+          <option name="PATTERN" value="ex_08_Switch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,19 +163,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab41_PreInc_PostInc" />
-      <item itemvalue="Application.Lab42_Adv_Inc" />
-      <item itemvalue="Application.Lab41_CLI_Inputs" />
-      <item itemvalue="Application.Lab39_Max_Nos_3" />
-      <item itemvalue="Application.Lab40_Age" />
+      <item itemvalue="Application.Lab52_Interview2" />
+      <item itemvalue="Application.Lab53_Jdk13Above" />
+      <item itemvalue="Application.Lab54_Jdk13_multiplecases" />
+      <item itemvalue="Application.Lab55_Interview3" />
+      <item itemvalue="Application.Lab56_Interview4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab42_Adv_Inc" />
-        <item itemvalue="Application.Lab41_PreInc_PostInc" />
-        <item itemvalue="Application.Lab41_CLI_Inputs" />
-        <item itemvalue="Application.Lab40_Age" />
-        <item itemvalue="Application.Lab39_Max_Nos_3" />
+        <item itemvalue="Application.Lab56_Interview4" />
+        <item itemvalue="Application.Lab55_Interview3" />
+        <item itemvalue="Application.Lab54_Jdk13_multiplecases" />
+        <item itemvalue="Application.Lab53_Jdk13Above" />
+        <item itemvalue="Application.Lab52_Interview2" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758381708891</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="21st Sep 2025">
+      <option name="closed" value="true" />
+      <created>1758456467570</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1758456467570</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,7 +284,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20th Sep 2025" />
     <MESSAGE value="20th Sep" />
-    <option name="LAST_COMMIT_MESSAGE" value="20th Sep" />
+    <MESSAGE value="21st Sep 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="21st Sep 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -272,6 +294,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>6</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_06_Increment_Decrement_Operator/Lab42_Adv_Inc.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/ex_03_Operators/Lab22_Concat_Inter.java</url>
@@ -293,5 +320,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LearningJavaATB14xPrograms$Lab43_If.ic" NAME="Lab43_If Coverage Results" MODIFIED="1758975104824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>ex_07_If_Condition.*</FILTER>
+    </SUITE>
   </component>
 </project>
