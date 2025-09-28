@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="21st Sep 2025">
+    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="27th Sep 2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Factorial.executor": "Run",
     "Application.Lab12_Printf_9Table.executor": "Run",
     "Application.Lab22_Concat_Inter.executor": "Run",
     "Application.Lab23_Bodmas.executor": "Run",
@@ -83,6 +84,29 @@
     "Application.Lab54_Jdk13.executor": "Run",
     "Application.Lab55_Interview3.executor": "Run",
     "Application.Lab56_Interview4.executor": "Run",
+    "Application.Lab57_L1.executor": "Run",
+    "Application.Lab58_Var_Loop.executor": "Run",
+    "Application.Lab59_Cond_Fail.executor": "Run",
+    "Application.Lab60_NoCond.executor": "Run",
+    "Application.Lab61_For_If_Loop.executor": "Run",
+    "Application.Lab62_Interview.executor": "Run",
+    "Application.Lab65_Loop_Decrement.executor": "Run",
+    "Application.Lab66_Greater_Equal.executor": "Run",
+    "Application.Lab67_Even_Odd_If_Loop.executor": "Run",
+    "Application.Lab68_Loop_Break.executor": "Run",
+    "Application.Lab69_Loop_Continue.executor": "Run",
+    "Application.Lab70_Loop_Continue_Even_Odd.executor": "Run",
+    "Application.Lab71_RealCase.executor": "Run",
+    "Application.Lab73_While.executor": "Run",
+    "Application.Lab74_While2.executor": "Run",
+    "Application.Lab75_Interview.executor": "Run",
+    "Application.Lab76_While_String.executor": "Run",
+    "Application.Lab77_Decrement.executor": "Run",
+    "Application.Lab78_Factorial.executor": "Run",
+    "Application.Lab79_While_Guessing_Game.executor": "Run",
+    "Application.Lab80_DoWhile.executor": "Run",
+    "Application.Lab81_DoWhile_Condition.executor": "Run",
+    "Application.ex_09_For_Loop.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -96,13 +120,13 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab56_Interview4">
-    <configuration name="Lab52_Interview2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08_Switch.Lab52_Interview2" />
+  <component name="RunManager" selected="Application.Lab82_Real">
+    <configuration name="Lab78_Factorial_IMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_10_While_Loop.Lab78_Factorial_IMP" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08_Switch.*" />
+          <option name="PATTERN" value="ex_10_While_Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab53_Jdk13Above" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08_Switch.Lab53_Jdk13Above" />
+    <configuration name="Lab79_While_Guessing_Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_10_While_Loop.Lab79_While_Guessing_Game" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08_Switch.*" />
+          <option name="PATTERN" value="ex_10_While_Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab54_Jdk13_multiplecases" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08_Switch.Lab54_Jdk13_multiplecases" />
+    <configuration name="Lab80_DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_11_Do_While.Lab80_DoWhile" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08_Switch.*" />
+          <option name="PATTERN" value="ex_11_Do_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab55_Interview3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08_Switch.Lab55_Interview3" />
+    <configuration name="Lab81_DoWhile_Condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_11_Do_While.Lab81_DoWhile_Condition" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08_Switch.*" />
+          <option name="PATTERN" value="ex_11_Do_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab56_Interview4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08_Switch.Lab56_Interview4" />
+    <configuration name="Lab82_Real" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_11_Do_While.Lab82_Real" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08_Switch.*" />
+          <option name="PATTERN" value="ex_11_Do_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,19 +187,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab52_Interview2" />
-      <item itemvalue="Application.Lab53_Jdk13Above" />
-      <item itemvalue="Application.Lab54_Jdk13_multiplecases" />
-      <item itemvalue="Application.Lab55_Interview3" />
-      <item itemvalue="Application.Lab56_Interview4" />
+      <item itemvalue="Application.Lab78_Factorial_IMP" />
+      <item itemvalue="Application.Lab79_While_Guessing_Game" />
+      <item itemvalue="Application.Lab80_DoWhile" />
+      <item itemvalue="Application.Lab81_DoWhile_Condition" />
+      <item itemvalue="Application.Lab82_Real" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab56_Interview4" />
-        <item itemvalue="Application.Lab55_Interview3" />
-        <item itemvalue="Application.Lab54_Jdk13_multiplecases" />
-        <item itemvalue="Application.Lab53_Jdk13Above" />
-        <item itemvalue="Application.Lab52_Interview2" />
+        <item itemvalue="Application.Lab82_Real" />
+        <item itemvalue="Application.Lab81_DoWhile_Condition" />
+        <item itemvalue="Application.Lab80_DoWhile" />
+        <item itemvalue="Application.Lab79_While_Guessing_Game" />
+        <item itemvalue="Application.Lab78_Factorial_IMP" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758456467570</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="27th Sep 2025">
+      <option name="closed" value="true" />
+      <created>1758984522076</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1758984522076</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,7 +317,8 @@
     <MESSAGE value="20th Sep 2025" />
     <MESSAGE value="20th Sep" />
     <MESSAGE value="21st Sep 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="21st Sep 2025" />
+    <MESSAGE value="27th Sep 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="27th Sep 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
