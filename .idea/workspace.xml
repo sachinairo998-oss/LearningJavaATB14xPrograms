@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="27th Sep 2025">
+    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="28th Sep 2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,6 +106,9 @@
     "Application.Lab79_While_Guessing_Game.executor": "Run",
     "Application.Lab80_DoWhile.executor": "Run",
     "Application.Lab81_DoWhile_Condition.executor": "Run",
+    "Application.Lab82_Real.executor": "Run",
+    "Application.Lab83_FizzBuzz_Test.executor": "Run",
+    "Application.Lab84_Grade_Calculator.executor": "Run",
     "Application.ex_09_For_Loop.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -120,33 +123,7 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab82_Real">
-    <configuration name="Lab78_Factorial_IMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10_While_Loop.Lab78_Factorial_IMP" />
-      <module name="LearningJavaATB14xPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_10_While_Loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab79_While_Guessing_Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10_While_Loop.Lab79_While_Guessing_Game" />
-      <module name="LearningJavaATB14xPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_10_While_Loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab84_Grade_Calculator">
     <configuration name="Lab80_DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_11_Do_While.Lab80_DoWhile" />
       <module name="LearningJavaATB14xPrograms" />
@@ -186,20 +163,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab83_FizzBuzz_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_09_ForLoop.Lab83_FizzBuzz_Test" />
+      <module name="LearningJavaATB14xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_09_ForLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab84_Grade_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_If_Condition.Lab84_Grade_Calculator" />
+      <module name="LearningJavaATB14xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07_If_Condition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Lab78_Factorial_IMP" />
-      <item itemvalue="Application.Lab79_While_Guessing_Game" />
+      <item itemvalue="Application.Lab83_FizzBuzz_Test" />
+      <item itemvalue="Application.Lab84_Grade_Calculator" />
       <item itemvalue="Application.Lab80_DoWhile" />
       <item itemvalue="Application.Lab81_DoWhile_Condition" />
       <item itemvalue="Application.Lab82_Real" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab84_Grade_Calculator" />
+        <item itemvalue="Application.Lab83_FizzBuzz_Test" />
         <item itemvalue="Application.Lab82_Real" />
         <item itemvalue="Application.Lab81_DoWhile_Condition" />
         <item itemvalue="Application.Lab80_DoWhile" />
-        <item itemvalue="Application.Lab79_While_Guessing_Game" />
-        <item itemvalue="Application.Lab78_Factorial_IMP" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758984522076</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="28th Sep 2025">
+      <option name="closed" value="true" />
+      <created>1759074816357</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1759074816357</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,7 +329,8 @@
     <MESSAGE value="20th Sep" />
     <MESSAGE value="21st Sep 2025" />
     <MESSAGE value="27th Sep 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="27th Sep 2025" />
+    <MESSAGE value="28th Sep 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="28th Sep 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
