@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="28th Sep 2025">
+    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="4th Oct 2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +108,23 @@
     "Application.Lab81_DoWhile_Condition.executor": "Run",
     "Application.Lab82_Real.executor": "Run",
     "Application.Lab83_FizzBuzz_Test.executor": "Run",
+    "Application.Lab84_Function.executor": "Run",
     "Application.Lab84_Grade_Calculator.executor": "Run",
+    "Application.Lab85_Methods.executor": "Run",
+    "Application.Lab86_SimpleMethod.executor": "Run",
+    "Application.Lab86_Simple_Method.executor": "Run",
+    "Application.Lab87_User_Defined_Method.executor": "Run",
+    "Application.Lab88_UD_Part1.executor": "Run",
+    "Application.Lab90_Function_Arth.executor": "Run",
+    "Application.Lab91_String_Immutable.executor": "Run",
+    "Application.Lab93_String_Imm.executor": "Run",
+    "Application.Lab94_String_Func.executor": "Run",
+    "Application.Lab95_Strings_Interviews.executor": "Run",
+    "Application.Lab96_Interviews.executor": "Run",
+    "Application.Lab97_String_Ex.executor": "Run",
+    "Application.Lab97_String_Example.executor": "Run",
+    "Application.Lab98_Example.executor": "Run",
+    "Application.Lab99_Example3.executor": "Run",
     "Application.ex_09_For_Loop.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -123,13 +139,13 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab84_Grade_Calculator">
-    <configuration name="Lab80_DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_11_Do_While.Lab80_DoWhile" />
+  <component name="RunManager" selected="Application.Lab99_Example3">
+    <configuration name="Lab95_Strings_Interviews" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13_Strings.Lab95_Strings_Interviews" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_11_Do_While.*" />
+          <option name="PATTERN" value="ex_13_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab81_DoWhile_Condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_11_Do_While.Lab81_DoWhile_Condition" />
+    <configuration name="Lab96_Interviews" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13_Strings.Lab96_Interviews" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_11_Do_While.*" />
+          <option name="PATTERN" value="ex_13_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab82_Real" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_11_Do_While.Lab82_Real" />
+    <configuration name="Lab97_String_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13_Strings.Lab97_String_Example" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_11_Do_While.*" />
+          <option name="PATTERN" value="ex_13_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab83_FizzBuzz_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_09_ForLoop.Lab83_FizzBuzz_Test" />
+    <configuration name="Lab98_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13_Strings.Lab98_Example" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_09_ForLoop.*" />
+          <option name="PATTERN" value="ex_13_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab84_Grade_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07_If_Condition.Lab84_Grade_Calculator" />
+    <configuration name="Lab99_Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13_Strings.Lab99_Example3" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_07_If_Condition.*" />
+          <option name="PATTERN" value="ex_13_Strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,19 +206,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab83_FizzBuzz_Test" />
-      <item itemvalue="Application.Lab84_Grade_Calculator" />
-      <item itemvalue="Application.Lab80_DoWhile" />
-      <item itemvalue="Application.Lab81_DoWhile_Condition" />
-      <item itemvalue="Application.Lab82_Real" />
+      <item itemvalue="Application.Lab95_Strings_Interviews" />
+      <item itemvalue="Application.Lab96_Interviews" />
+      <item itemvalue="Application.Lab97_String_Example" />
+      <item itemvalue="Application.Lab98_Example" />
+      <item itemvalue="Application.Lab99_Example3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab84_Grade_Calculator" />
-        <item itemvalue="Application.Lab83_FizzBuzz_Test" />
-        <item itemvalue="Application.Lab82_Real" />
-        <item itemvalue="Application.Lab81_DoWhile_Condition" />
-        <item itemvalue="Application.Lab80_DoWhile" />
+        <item itemvalue="Application.Lab99_Example3" />
+        <item itemvalue="Application.Lab98_Example" />
+        <item itemvalue="Application.Lab97_String_Example" />
+        <item itemvalue="Application.Lab96_Interviews" />
+        <item itemvalue="Application.Lab95_Strings_Interviews" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +326,23 @@
       <option name="project" value="LOCAL" />
       <updated>1759074816357</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="4th Oct 2025">
+      <option name="closed" value="true" />
+      <created>1759576747314</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1759576747314</updated>
+    </task>
+    <task id="LOCAL-00014" summary="4th Oct 2025">
+      <option name="closed" value="true" />
+      <created>1759576755932</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1759576755932</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -330,7 +362,8 @@
     <MESSAGE value="21st Sep 2025" />
     <MESSAGE value="27th Sep 2025" />
     <MESSAGE value="28th Sep 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="28th Sep 2025" />
+    <MESSAGE value="4th Oct 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="4th Oct 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
