@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="4th Oct 2025">
+    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="4th Oct 2025 Part 1 and 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,25 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Factorial.executor": "Run",
+    "Application.Lab100_Reverse_String.executor": "Run",
+    "Application.Lab101_Count_Words_In_String.executor": "Run",
+    "Application.Lab102_First_Letter_of_Each_Word.executor": "Run",
+    "Application.Lab103_Second_Max_num.executor": "Run",
+    "Application.Lab104_String_Func.executor": "Run",
+    "Application.Lab105_String_Builder_Vs_Buffer.executor": "Run",
+    "Application.Lab106_SB.executor": "Run",
+    "Application.Lab107_String_Builder.executor": "Run",
+    "Application.Lab108_String_Builder_2.executor": "Run",
+    "Application.Lab109_SB_2.executor": "Run",
+    "Application.Lab110_Arrays.executor": "Run",
+    "Application.Lab111_Array.executor": "Run",
+    "Application.Lab112_Arrays_Print.executor": "Run",
+    "Application.Lab113_Arrays_Max_Min.executor": "Run",
+    "Application.Lab114_User_Inputs.executor": "Run",
+    "Application.Lab115_Sum_Of_Arrays.executor": "Run",
+    "Application.Lab116_Sec_High_No.executor": "Run",
+    "Application.Lab117_String_CLI.executor": "Run",
+    "Application.Lab118_2D.executor": "Run",
     "Application.Lab12_Printf_9Table.executor": "Run",
     "Application.Lab22_Concat_Inter.executor": "Run",
     "Application.Lab23_Bodmas.executor": "Run",
@@ -136,16 +155,16 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab99_Example3">
-    <configuration name="Lab95_Strings_Interviews" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13_Strings.Lab95_Strings_Interviews" />
+  <component name="RunManager" selected="Application.Lab118_2D">
+    <configuration name="Lab114_User_Inputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14_Arrays.Lab114_User_Inputs" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13_Strings.*" />
+          <option name="PATTERN" value="ex_14_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab96_Interviews" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13_Strings.Lab96_Interviews" />
+    <configuration name="Lab115_Sum_Of_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14_Arrays.Lab115_Sum_Of_Arrays" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13_Strings.*" />
+          <option name="PATTERN" value="ex_14_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab97_String_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13_Strings.Lab97_String_Example" />
+    <configuration name="Lab116_Sec_High_No" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14_Arrays.Lab116_Sec_High_No" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13_Strings.*" />
+          <option name="PATTERN" value="ex_14_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +198,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab98_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13_Strings.Lab98_Example" />
+    <configuration name="Lab117_String_CLI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14_Arrays.Lab117_String_CLI" />
       <module name="LearningJavaATB14xPrograms" />
+      <option name="PROGRAM_PARAMETERS" value="30 40 50" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13_Strings.*" />
+          <option name="PATTERN" value="ex_14_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +212,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab99_Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13_Strings.Lab99_Example3" />
+    <configuration name="Lab118_2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14_Arrays.Lab118_2D" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13_Strings.*" />
+          <option name="PATTERN" value="ex_14_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,19 +226,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab95_Strings_Interviews" />
-      <item itemvalue="Application.Lab96_Interviews" />
-      <item itemvalue="Application.Lab97_String_Example" />
-      <item itemvalue="Application.Lab98_Example" />
-      <item itemvalue="Application.Lab99_Example3" />
+      <item itemvalue="Application.Lab114_User_Inputs" />
+      <item itemvalue="Application.Lab115_Sum_Of_Arrays" />
+      <item itemvalue="Application.Lab116_Sec_High_No" />
+      <item itemvalue="Application.Lab117_String_CLI" />
+      <item itemvalue="Application.Lab118_2D" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab99_Example3" />
-        <item itemvalue="Application.Lab98_Example" />
-        <item itemvalue="Application.Lab97_String_Example" />
-        <item itemvalue="Application.Lab96_Interviews" />
-        <item itemvalue="Application.Lab95_Strings_Interviews" />
+        <item itemvalue="Application.Lab118_2D" />
+        <item itemvalue="Application.Lab117_String_CLI" />
+        <item itemvalue="Application.Lab116_Sec_High_No" />
+        <item itemvalue="Application.Lab115_Sum_Of_Arrays" />
+        <item itemvalue="Application.Lab114_User_Inputs" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +362,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759576755932</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="4th Oct 2025 Part 1 and 2">
+      <option name="closed" value="true" />
+      <created>1759588050842</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1759588050842</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -363,7 +391,8 @@
     <MESSAGE value="27th Sep 2025" />
     <MESSAGE value="28th Sep 2025" />
     <MESSAGE value="4th Oct 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="4th Oct 2025" />
+    <MESSAGE value="4th Oct 2025 Part 1 and 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="4th Oct 2025 Part 1 and 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
