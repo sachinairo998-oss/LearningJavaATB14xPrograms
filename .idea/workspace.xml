@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="4th Oct 2025 Part 1 and 2">
+    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="5th Oct 2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,9 +58,14 @@
     "Application.Lab109_SB_2.executor": "Run",
     "Application.Lab110_Arrays.executor": "Run",
     "Application.Lab111_Array.executor": "Run",
+    "Application.Lab111_Positive_Negative.executor": "Run",
     "Application.Lab112_Arrays_Print.executor": "Run",
+    "Application.Lab112_Even_Odd.executor": "Run",
     "Application.Lab113_Arrays_Max_Min.executor": "Run",
+    "Application.Lab113_Maximum_Two_Nos.executor": "Run",
     "Application.Lab114_User_Inputs.executor": "Run",
+    "Application.Lab114_Vowel_Consonant.executor": "Run",
+    "Application.Lab115_Eligible_Vote_Age.executor": "Run",
     "Application.Lab115_Sum_Of_Arrays.executor": "Run",
     "Application.Lab116_Sec_High_No.executor": "Run",
     "Application.Lab117_String_CLI.executor": "Run",
@@ -158,13 +163,13 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab118_2D">
-    <configuration name="Lab114_User_Inputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14_Arrays.Lab114_User_Inputs" />
+  <component name="RunManager" selected="Application.Lab114_Vowel_Consonant">
+    <configuration name="Lab111_Positive_Negative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_If_Condition.Lab111_Positive_Negative" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14_Arrays.*" />
+          <option name="PATTERN" value="ex_07_If_Condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab115_Sum_Of_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14_Arrays.Lab115_Sum_Of_Arrays" />
+    <configuration name="Lab112_Even_Odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_If_Condition.Lab112_Even_Odd" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14_Arrays.*" />
+          <option name="PATTERN" value="ex_07_If_Condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab116_Sec_High_No" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14_Arrays.Lab116_Sec_High_No" />
+    <configuration name="Lab113_Maximum_Two_Nos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_If_Condition.Lab113_Maximum_Two_Nos" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14_Arrays.*" />
+          <option name="PATTERN" value="ex_07_If_Condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,13 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab117_String_CLI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14_Arrays.Lab117_String_CLI" />
+    <configuration name="Lab114_Vowel_Consonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_If_Condition.Lab114_Vowel_Consonant" />
       <module name="LearningJavaATB14xPrograms" />
-      <option name="PROGRAM_PARAMETERS" value="30 40 50" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14_Arrays.*" />
+          <option name="PATTERN" value="ex_07_If_Condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab118_2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14_Arrays.Lab118_2D" />
+    <configuration name="Lab115_Eligible_Vote_Age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_If_Condition.Lab115_Eligible_Vote_Age" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14_Arrays.*" />
+          <option name="PATTERN" value="ex_07_If_Condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,19 +230,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab114_User_Inputs" />
-      <item itemvalue="Application.Lab115_Sum_Of_Arrays" />
-      <item itemvalue="Application.Lab116_Sec_High_No" />
-      <item itemvalue="Application.Lab117_String_CLI" />
-      <item itemvalue="Application.Lab118_2D" />
+      <item itemvalue="Application.Lab111_Positive_Negative" />
+      <item itemvalue="Application.Lab112_Even_Odd" />
+      <item itemvalue="Application.Lab113_Maximum_Two_Nos" />
+      <item itemvalue="Application.Lab114_Vowel_Consonant" />
+      <item itemvalue="Application.Lab115_Eligible_Vote_Age" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab118_2D" />
-        <item itemvalue="Application.Lab117_String_CLI" />
-        <item itemvalue="Application.Lab116_Sec_High_No" />
-        <item itemvalue="Application.Lab115_Sum_Of_Arrays" />
-        <item itemvalue="Application.Lab114_User_Inputs" />
+        <item itemvalue="Application.Lab114_Vowel_Consonant" />
+        <item itemvalue="Application.Lab115_Eligible_Vote_Age" />
+        <item itemvalue="Application.Lab113_Maximum_Two_Nos" />
+        <item itemvalue="Application.Lab112_Even_Odd" />
+        <item itemvalue="Application.Lab111_Positive_Negative" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +374,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759588050842</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="5th Oct 2025">
+      <option name="closed" value="true" />
+      <created>1759679109202</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1759679109202</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -392,7 +404,8 @@
     <MESSAGE value="28th Sep 2025" />
     <MESSAGE value="4th Oct 2025" />
     <MESSAGE value="4th Oct 2025 Part 1 and 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="4th Oct 2025 Part 1 and 2" />
+    <MESSAGE value="5th Oct 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="5th Oct 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
