@@ -1,6 +1,6 @@
 package ex_07_If_Condition;
 
-public class Lab113_Maximum_Two_Nos {
+public class Lab121_Maximum_Two_Nos {
     public static void main(String[] args) {
         int a = 25, b = 45;
         if (a > b) {

@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="10th Oct 2025">
+    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="11th Oct 2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07_If_Condition/Lab111_Positive_Negative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_If_Condition/Lab119_Positive_Negative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07_If_Condition/Lab112_Even_Odd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_If_Condition/Lab120_Even_Odd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07_If_Condition/Lab113_Maximum_Two_Nos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_If_Condition/Lab121_Maximum_Two_Nos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07_If_Condition/Lab114_Vowel_Consonant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_If_Condition/Lab122_Vowel_Consonant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07_If_Condition/Lab115_Eligible_Vote_Age.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07_If_Condition/Lab123_Eligible_Vote_Age.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14_Arrays/Lab103_Second_Max_num.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14_Arrays/Lab103_Second_Max_num.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14_Arrays/Lab118_2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14_Arrays/Lab118_2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14_Arrays/Lab120_Right_Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14_Arrays/Lab124_Left_Aligned_Right_Angled_Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_14_Arrays/Lab121_Inverted_Right_Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_14_Arrays/Lab125_Inverted_Left_Aligned_Right_Angled_Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +79,16 @@
     "Application.Lab116_Sec_High_No.executor": "Run",
     "Application.Lab117_String_CLI.executor": "Run",
     "Application.Lab118_2D.executor": "Run",
-    "Application.Lab120_Right_Triangle.executor": "Run",
+    "Application.Lab120_Right_Triangle.executor": "Debug",
     "Application.Lab121_Inverted_Right_Triangle.executor": "Run",
+    "Application.Lab124_Left_Aligned_Right_Angled_Triangle.executor": "Run",
+    "Application.Lab124_Right_Triangle.executor": "Run",
+    "Application.Lab125_Inverted_Left_Aligned_Right_Angled_Triangle.executor": "Run",
+    "Application.Lab125_Inverted_Right_Triangle.executor": "Run",
+    "Application.Lab126_Left_Triangle.executor": "Run",
+    "Application.Lab126_Right_Angled_Triangle.executor": "Run",
+    "Application.Lab127_Buffer_Reader_Input.executor": "Run",
+    "Application.Lab129_Oops.executor": "Run",
     "Application.Lab12_Printf_9Table.executor": "Run",
     "Application.Lab22_Concat_Inter.executor": "Run",
     "Application.Lab23_Bodmas.executor": "Run",
@@ -165,48 +182,9 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab120_Right_Triangle">
-    <configuration name="Lab113_Maximum_Two_Nos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07_If_Condition.Lab113_Maximum_Two_Nos" />
-      <module name="LearningJavaATB14xPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_07_If_Condition.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab114_Vowel_Consonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07_If_Condition.Lab114_Vowel_Consonant" />
-      <module name="LearningJavaATB14xPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_07_If_Condition.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab115_Eligible_Vote_Age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07_If_Condition.Lab115_Eligible_Vote_Age" />
-      <module name="LearningJavaATB14xPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_07_If_Condition.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab120_Right_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14_Arrays.Lab120_Right_Triangle" />
+  <component name="RunManager" selected="Application.Lab126_Right_Angled_Triangle">
+    <configuration name="Lab103_Second_Max_num" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14_Arrays.Lab103_Second_Max_num" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
@@ -218,12 +196,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab121_Inverted_Right_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14_Arrays.Lab121_Inverted_Right_Triangle" />
+    <configuration name="Lab124_Left_Aligned_Right_Angled_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14_Arrays.Lab124_Left_Aligned_Right_Angled_Triangle" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ex_14_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab126_Right_Angled_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14_Arrays.Lab126_Right_Angled_Triangle" />
+      <module name="LearningJavaATB14xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_14_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab127_Buffer_Reader_Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14_Arrays.Lab127_Buffer_Reader_Input" />
+      <module name="LearningJavaATB14xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_14_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab129_Oops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_16_OOPs.Lab129_Oops" />
+      <module name="LearningJavaATB14xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_16_OOPs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,19 +249,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab120_Right_Triangle" />
-      <item itemvalue="Application.Lab121_Inverted_Right_Triangle" />
-      <item itemvalue="Application.Lab113_Maximum_Two_Nos" />
-      <item itemvalue="Application.Lab114_Vowel_Consonant" />
-      <item itemvalue="Application.Lab115_Eligible_Vote_Age" />
+      <item itemvalue="Application.Lab103_Second_Max_num" />
+      <item itemvalue="Application.Lab126_Right_Angled_Triangle" />
+      <item itemvalue="Application.Lab127_Buffer_Reader_Input" />
+      <item itemvalue="Application.Lab129_Oops" />
+      <item itemvalue="Application.Lab124_Left_Aligned_Right_Angled_Triangle" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab120_Right_Triangle" />
-        <item itemvalue="Application.Lab121_Inverted_Right_Triangle" />
-        <item itemvalue="Application.Lab114_Vowel_Consonant" />
-        <item itemvalue="Application.Lab115_Eligible_Vote_Age" />
-        <item itemvalue="Application.Lab113_Maximum_Two_Nos" />
+        <item itemvalue="Application.Lab126_Right_Angled_Triangle" />
+        <item itemvalue="Application.Lab129_Oops" />
+        <item itemvalue="Application.Lab127_Buffer_Reader_Input" />
+        <item itemvalue="Application.Lab103_Second_Max_num" />
+        <item itemvalue="Application.Lab124_Left_Aligned_Right_Angled_Triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -392,7 +409,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760090512033</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="11th Oct 2025">
+      <option name="closed" value="true" />
+      <created>1760161379440</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1760161379440</updated>
+    </task>
+    <task id="LOCAL-00019" summary="11th Oct 2025">
+      <option name="closed" value="true" />
+      <created>1760161388012</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1760161388012</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -416,7 +449,8 @@
     <MESSAGE value="4th Oct 2025 Part 1 and 2" />
     <MESSAGE value="5th Oct 2025" />
     <MESSAGE value="10th Oct 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="10th Oct 2025" />
+    <MESSAGE value="11th Oct 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="11th Oct 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

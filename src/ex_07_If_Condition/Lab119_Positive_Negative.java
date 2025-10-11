@@ -1,6 +1,6 @@
 package ex_07_If_Condition;
 
-public class Lab111_Positive_Negative {
+public class Lab119_Positive_Negative {
     public static void main(String[] args) {
         int a = 10;
         if (a > 0) {

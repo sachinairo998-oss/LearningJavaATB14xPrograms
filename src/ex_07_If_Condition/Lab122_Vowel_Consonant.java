@@ -1,6 +1,6 @@
 package ex_07_If_Condition;
 
-public class Lab114_Vowel_Consonant {
+public class Lab122_Vowel_Consonant {
     public static void main(String[] args) {
         char ch = 'a';
         if (ch == 'a' || ch =='A' || ch == 'e' || ch =='E' || ch == 'i' || ch =='I' ||

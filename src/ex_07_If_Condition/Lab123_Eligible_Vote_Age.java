@@ -1,6 +1,6 @@
 package ex_07_If_Condition;
 
-public class Lab115_Eligible_Vote_Age {
+public class Lab123_Eligible_Vote_Age {
     public static void main(String[] args) {
         int age = 18;
         if (age <= 18) {
