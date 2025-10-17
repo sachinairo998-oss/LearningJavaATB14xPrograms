@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="11th Oct 25">
+    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="12th Oct 2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_16_OOPs/Lab129_Oops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_16_OOPs/Lab129_Oops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +83,14 @@
     "Application.Lab12_Printf_9Table.executor": "Run",
     "Application.Lab130_Constructor.executor": "Run",
     "Application.Lab132_Cats_OOPs.executor": "Run",
+    "Application.Lab139_Largest_of_Three_Numbers.executor": "Run",
+    "Application.Lab140_Smallest_of_Two_Numbers.executor": "Run",
+    "Application.Lab141_Smallest_of_Three_Numbers.executor": "Run",
+    "Application.Lab142_Year_is_Leap_Year.executor": "Run",
+    "Application.Lab143_Grade_Based_on_Marks.executor": "Run",
+    "Application.Lab144_Character_is_Alphabet.executor": "Run",
+    "Application.Lab145_Number_is_Prime.executor": "Run",
+    "Application.Lab146_ATM_Withdrawal_Simulation.executor": "Run",
     "Application.Lab22_Concat_Inter.executor": "Run",
     "Application.Lab23_Bodmas.executor": "Run",
     "Application.Lab24_EqualS_Operator.executor": "Run",
@@ -176,13 +183,13 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab132_Cats_OOPs">
-    <configuration name="Lab126_Right_Angled_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14_Arrays.Lab126_Right_Angled_Triangle" />
+  <component name="RunManager" selected="Application.Lab147_Triangle_Valid_Three_Sides">
+    <configuration name="Lab143_Grade_Based_on_Marks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_18_If_Else.Lab143_Grade_Based_on_Marks" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14_Arrays.*" />
+          <option name="PATTERN" value="ex_18_If_Else.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab127_Buffer_Reader_Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14_Arrays.Lab127_Buffer_Reader_Input" />
+    <configuration name="Lab144_Character_is_Alphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_18_If_Else.Lab144_Character_is_Alphabet" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14_Arrays.*" />
+          <option name="PATTERN" value="ex_18_If_Else.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +210,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab129_Oops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_16_OOPs.Lab129_Oops" />
+    <configuration name="Lab145_Number_is_Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_18_If_Else.Lab145_Number_is_Prime" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_16_OOPs.*" />
+          <option name="PATTERN" value="ex_18_If_Else.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab130_Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_16_OOPs.Lab130_Constructor" />
+    <configuration name="Lab146_ATM_Withdrawal_Simulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_18_If_Else.Lab146_ATM_Withdrawal_Simulation" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_16_OOPs.*" />
+          <option name="PATTERN" value="ex_18_If_Else.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab132_Cats_OOPs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_16_OOPs.Lab132_Cats_OOPs" />
+    <configuration name="Lab147_Triangle_Valid_Three_Sides" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_18_If_Else.Lab147_Triangle_Valid_Three_Sides" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_16_OOPs.*" />
+          <option name="PATTERN" value="ex_18_If_Else.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,19 +250,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab132_Cats_OOPs" />
-      <item itemvalue="Application.Lab130_Constructor" />
-      <item itemvalue="Application.Lab126_Right_Angled_Triangle" />
-      <item itemvalue="Application.Lab127_Buffer_Reader_Input" />
-      <item itemvalue="Application.Lab129_Oops" />
+      <item itemvalue="Application.Lab143_Grade_Based_on_Marks" />
+      <item itemvalue="Application.Lab144_Character_is_Alphabet" />
+      <item itemvalue="Application.Lab145_Number_is_Prime" />
+      <item itemvalue="Application.Lab146_ATM_Withdrawal_Simulation" />
+      <item itemvalue="Application.Lab147_Triangle_Valid_Three_Sides" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab132_Cats_OOPs" />
-        <item itemvalue="Application.Lab130_Constructor" />
-        <item itemvalue="Application.Lab126_Right_Angled_Triangle" />
-        <item itemvalue="Application.Lab129_Oops" />
-        <item itemvalue="Application.Lab127_Buffer_Reader_Input" />
+        <item itemvalue="Application.Lab147_Triangle_Valid_Three_Sides" />
+        <item itemvalue="Application.Lab146_ATM_Withdrawal_Simulation" />
+        <item itemvalue="Application.Lab145_Number_is_Prime" />
+        <item itemvalue="Application.Lab144_Character_is_Alphabet" />
+        <item itemvalue="Application.Lab143_Grade_Based_on_Marks" />
       </list>
     </recent_temporary>
   </component>
@@ -427,7 +434,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760185160866</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="12th Oct 2025">
+      <option name="closed" value="true" />
+      <created>1760271319626</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1760271319626</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -453,7 +468,8 @@
     <MESSAGE value="10th Oct 2025" />
     <MESSAGE value="11th Oct 2025" />
     <MESSAGE value="11th Oct 25" />
-    <option name="LAST_COMMIT_MESSAGE" value="11th Oct 25" />
+    <MESSAGE value="12th Oct 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="12th Oct 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
