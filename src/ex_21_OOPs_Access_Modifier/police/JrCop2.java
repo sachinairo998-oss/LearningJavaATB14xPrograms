@@ -1,4 +1,4 @@
-package police;
+package ex_21_OOPs_Access_Modifier.police;
 
 public class JrCop2 {
     public static void main(String[] args) {

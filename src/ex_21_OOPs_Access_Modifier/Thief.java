@@ -1,6 +1,6 @@
 package ex_21_OOPs_Access_Modifier;
 
-import police.Cop;
+import ex_21_OOPs_Access_Modifier.police.Cop;
 
 public class Thief {
     public static void main(String[] args) {

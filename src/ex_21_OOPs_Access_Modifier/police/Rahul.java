@@ -1,4 +1,4 @@
-package police;
+package ex_21_OOPs_Access_Modifier.police;
 
 public class Rahul extends Cop {
     public Rahul(int bullet){
