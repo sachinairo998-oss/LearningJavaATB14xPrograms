@@ -4,8 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="12th Oct 2025">
+    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="17th Oct 2025">
+      <change afterPath="$PROJECT_DIR$/src/police/Cop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Hierarchical_Inheritance/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Hierarchical_Inheritance/Father.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Hierarchical_Inheritance/Lab137_Hierarchical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Hierarchical_Inheritance/Lab137_Hierarchical.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Hierarchical_Inheritance/Priya.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Hierarchical_Inheritance/Priya.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Hierarchical_Inheritance/Sachin_Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Hierarchical_Inheritance/Sachin_Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Hierarchical_Inheritance/Sanju.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Hierarchical_Inheritance/Sanju.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Multilevel_Inheritance/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Multilevel_Inheritance/Father.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Multilevel_Inheritance/Grandfather.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Multilevel_Inheritance/Grandfather.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Multilevel_Inheritance/Lab136_Multilevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Multilevel_Inheritance/Lab136_Multilevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Multilevel_Inheritance/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Multilevel_Inheritance/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Multiple_Hybrid_Inheritance/Lab138_Multiple_Hybrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Multiple_Hybrid_Inheritance/Lab138_Multiple_Hybrid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Single_Inheritance/Lab133_Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Single_Inheritance/Lab133_Father.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Single_Inheritance/Lab134_Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Single_Inheritance/Lab134_Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Single_Inheritance/Lab135_Single_Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Single_Inheritance/Lab135_Single_Inheritance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +105,11 @@
     "Application.Lab144_Character_is_Alphabet.executor": "Run",
     "Application.Lab145_Number_is_Prime.executor": "Run",
     "Application.Lab146_ATM_Withdrawal_Simulation.executor": "Run",
+    "Application.Lab147_Triangle_Valid_Three_Sides.executor": "Run",
+    "Application.Lab148_Calculator.executor": "Run",
+    "Application.Lab149_WebUIAutomation.executor": "Run",
+    "Application.Lab151_MO.executor": "Run",
+    "Application.Lab152_Encap.executor": "Run",
     "Application.Lab22_Concat_Inter.executor": "Run",
     "Application.Lab23_Bodmas.executor": "Run",
     "Application.Lab24_EqualS_Operator.executor": "Run",
@@ -183,59 +202,7 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab147_Triangle_Valid_Three_Sides">
-    <configuration name="Lab143_Grade_Based_on_Marks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18_If_Else.Lab143_Grade_Based_on_Marks" />
-      <module name="LearningJavaATB14xPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_18_If_Else.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab144_Character_is_Alphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18_If_Else.Lab144_Character_is_Alphabet" />
-      <module name="LearningJavaATB14xPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_18_If_Else.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab145_Number_is_Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18_If_Else.Lab145_Number_is_Prime" />
-      <module name="LearningJavaATB14xPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_18_If_Else.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab146_ATM_Withdrawal_Simulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18_If_Else.Lab146_ATM_Withdrawal_Simulation" />
-      <module name="LearningJavaATB14xPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_18_If_Else.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab152_Encap">
     <configuration name="Lab147_Triangle_Valid_Three_Sides" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_18_If_Else.Lab147_Triangle_Valid_Three_Sides" />
       <module name="LearningJavaATB14xPrograms" />
@@ -249,20 +216,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab148_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_19_OOPs_Polymorphism.methodoverloading.Lab148_Calculator" />
+      <module name="LearningJavaATB14xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_19_OOPs_Polymorphism.methodoverloading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab149_WebUIAutomation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_19_OOPs_Polymorphism.methodoverloading.Lab149_WebUIAutomation" />
+      <module name="LearningJavaATB14xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_19_OOPs_Polymorphism.methodoverloading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab151_MO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_19_OOPs_Polymorphism.methodoverloading.methodoverriding.Lab151_MO" />
+      <module name="LearningJavaATB14xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_19_OOPs_Polymorphism.methodoverloading.methodoverriding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab152_Encap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20_OOPs_Encapsulation.Lab152_Encap" />
+      <module name="LearningJavaATB14xPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_20_OOPs_Encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Lab143_Grade_Based_on_Marks" />
-      <item itemvalue="Application.Lab144_Character_is_Alphabet" />
-      <item itemvalue="Application.Lab145_Number_is_Prime" />
-      <item itemvalue="Application.Lab146_ATM_Withdrawal_Simulation" />
+      <item itemvalue="Application.Lab148_Calculator" />
+      <item itemvalue="Application.Lab149_WebUIAutomation" />
+      <item itemvalue="Application.Lab151_MO" />
+      <item itemvalue="Application.Lab152_Encap" />
       <item itemvalue="Application.Lab147_Triangle_Valid_Three_Sides" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab152_Encap" />
+        <item itemvalue="Application.Lab151_MO" />
+        <item itemvalue="Application.Lab149_WebUIAutomation" />
+        <item itemvalue="Application.Lab148_Calculator" />
         <item itemvalue="Application.Lab147_Triangle_Valid_Three_Sides" />
-        <item itemvalue="Application.Lab146_ATM_Withdrawal_Simulation" />
-        <item itemvalue="Application.Lab145_Number_is_Prime" />
-        <item itemvalue="Application.Lab144_Character_is_Alphabet" />
-        <item itemvalue="Application.Lab143_Grade_Based_on_Marks" />
       </list>
     </recent_temporary>
   </component>
@@ -442,7 +461,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760271319626</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="17th Oct 2025">
+      <option name="closed" value="true" />
+      <created>1760684889063</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1760684889063</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -469,7 +496,8 @@
     <MESSAGE value="11th Oct 2025" />
     <MESSAGE value="11th Oct 25" />
     <MESSAGE value="12th Oct 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="12th Oct 2025" />
+    <MESSAGE value="17th Oct 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="17th Oct 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

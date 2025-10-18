@@ -1,6 +1,4 @@
-package ex_17_OOPs_Multiple_Hybrid_Inheritance;
-
-import javax.swing.*;
+package ex_17_OOPs_Inheritance.Multiple_Hybrid_Inheritance;
 
 public class Lab138_Multiple_Hybrid {
 /*    Not Possible in Java

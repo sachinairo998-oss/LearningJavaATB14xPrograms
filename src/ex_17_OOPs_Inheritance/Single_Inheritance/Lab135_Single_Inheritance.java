@@ -1,4 +1,4 @@
-package ex_17_OOPs_Single_Inheritance;
+package ex_17_OOPs_Inheritance.Single_Inheritance;
 
 public class Lab135_Single_Inheritance extends Lab133_Father { // A Father -> B Son
     // extends keyword for Inheriting

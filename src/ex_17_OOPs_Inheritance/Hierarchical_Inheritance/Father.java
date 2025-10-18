@@ -1,4 +1,4 @@
-package ex_17_OOPs_Hierarchical_Inheritance;
+package ex_17_OOPs_Inheritance.Hierarchical_Inheritance;
 
 public class Father {
     void home (){

@@ -1,4 +1,4 @@
-package ex_17_OOPs_Multilevel_Inheritance;
+package ex_17_OOPs_Inheritance.Multilevel_Inheritance;
 
 public class Lab136_Multilevel { // A Grandfather -> B Father -> C Son
     // extends keyword for Inheriting
