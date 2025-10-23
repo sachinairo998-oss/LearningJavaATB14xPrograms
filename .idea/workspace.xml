@@ -4,22 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="17th Oct 2025">
-      <change afterPath="$PROJECT_DIR$/src/police/Cop.java" afterDir="false" />
+    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="18th Oct 25">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Hierarchical_Inheritance/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Hierarchical_Inheritance/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Hierarchical_Inheritance/Lab137_Hierarchical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Hierarchical_Inheritance/Lab137_Hierarchical.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Hierarchical_Inheritance/Priya.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Hierarchical_Inheritance/Priya.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Hierarchical_Inheritance/Sachin_Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Hierarchical_Inheritance/Sachin_Son.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Hierarchical_Inheritance/Sanju.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Hierarchical_Inheritance/Sanju.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Multilevel_Inheritance/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Multilevel_Inheritance/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Multilevel_Inheritance/Grandfather.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Multilevel_Inheritance/Grandfather.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Multilevel_Inheritance/Lab136_Multilevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Multilevel_Inheritance/Lab136_Multilevel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Multilevel_Inheritance/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Multilevel_Inheritance/Son.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Multiple_Hybrid_Inheritance/Lab138_Multiple_Hybrid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Multiple_Hybrid_Inheritance/Lab138_Multiple_Hybrid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Single_Inheritance/Lab133_Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Single_Inheritance/Lab133_Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Single_Inheritance/Lab134_Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Single_Inheritance/Lab134_Son.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_17_OOPs_Single_Inheritance/Lab135_Single_Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17_OOPs_Inheritance/Single_Inheritance/Lab135_Single_Inheritance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BonusCalculator.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.Lab100_Reverse_String.executor": "Run",
     "Application.Lab101_Count_Words_In_String.executor": "Run",
@@ -110,6 +97,13 @@
     "Application.Lab149_WebUIAutomation.executor": "Run",
     "Application.Lab151_MO.executor": "Run",
     "Application.Lab152_Encap.executor": "Run",
+    "Application.Lab153_Palindrome.executor": "Run",
+    "Application.Lab154_Armstrong_Number.executor": "Run",
+    "Application.Lab155_Loan_Eligible.executor": "Run",
+    "Application.Lab156_Electricity_Bill_Cal.executor": "Run",
+    "Application.Lab157_Cal_Bonus_Sal.executor": "Run",
+    "Application.Lab158_Cal_Employee_Net_Sal.executor": "Run",
+    "Application.Lab159_Visa_Status_Age.executor": "Run",
     "Application.Lab22_Concat_Inter.executor": "Run",
     "Application.Lab23_Bodmas.executor": "Run",
     "Application.Lab24_EqualS_Operator.executor": "Run",
@@ -202,9 +196,16 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab152_Encap">
-    <configuration name="Lab147_Triangle_Valid_Three_Sides" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18_If_Else.Lab147_Triangle_Valid_Three_Sides" />
+  <component name="RunManager" selected="Application.Lab159_Visa_Status_Age">
+    <configuration name="Cal_Bonus_Sal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cal_Bonus_Sal" />
+      <module name="LearningJavaATB14xPrograms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab156_Electricity_Bill_Cal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_18_If_Else.Lab156_Electricity_Bill_Cal" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
@@ -216,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab148_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_19_OOPs_Polymorphism.methodoverloading.Lab148_Calculator" />
+    <configuration name="Lab157_Cal_Bonus_Sal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_18_If_Else.Lab157_Cal_Bonus_Sal" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_19_OOPs_Polymorphism.methodoverloading.*" />
+          <option name="PATTERN" value="ex_18_If_Else.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab149_WebUIAutomation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_19_OOPs_Polymorphism.methodoverloading.Lab149_WebUIAutomation" />
+    <configuration name="Lab158_Cal_Employee_Net_Sal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_18_If_Else.Lab158_Cal_Employee_Net_Sal" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_19_OOPs_Polymorphism.methodoverloading.*" />
+          <option name="PATTERN" value="ex_18_If_Else.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,25 +243,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab151_MO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_19_OOPs_Polymorphism.methodoverloading.methodoverriding.Lab151_MO" />
+    <configuration name="Lab159_Visa_Status_Age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_18_If_Else.Lab159_Visa_Status_Age" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_19_OOPs_Polymorphism.methodoverloading.methodoverriding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab152_Encap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20_OOPs_Encapsulation.Lab152_Encap" />
-      <module name="LearningJavaATB14xPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_20_OOPs_Encapsulation.*" />
+          <option name="PATTERN" value="ex_18_If_Else.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,19 +257,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab148_Calculator" />
-      <item itemvalue="Application.Lab149_WebUIAutomation" />
-      <item itemvalue="Application.Lab151_MO" />
-      <item itemvalue="Application.Lab152_Encap" />
-      <item itemvalue="Application.Lab147_Triangle_Valid_Three_Sides" />
+      <item itemvalue="Application.Cal_Bonus_Sal" />
+      <item itemvalue="Application.Lab156_Electricity_Bill_Cal" />
+      <item itemvalue="Application.Lab157_Cal_Bonus_Sal" />
+      <item itemvalue="Application.Lab158_Cal_Employee_Net_Sal" />
+      <item itemvalue="Application.Lab159_Visa_Status_Age" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab152_Encap" />
-        <item itemvalue="Application.Lab151_MO" />
-        <item itemvalue="Application.Lab149_WebUIAutomation" />
-        <item itemvalue="Application.Lab148_Calculator" />
-        <item itemvalue="Application.Lab147_Triangle_Valid_Three_Sides" />
+        <item itemvalue="Application.Lab159_Visa_Status_Age" />
+        <item itemvalue="Application.Lab158_Cal_Employee_Net_Sal" />
+        <item itemvalue="Application.Lab157_Cal_Bonus_Sal" />
+        <item itemvalue="Application.Cal_Bonus_Sal" />
+        <item itemvalue="Application.Lab156_Electricity_Bill_Cal" />
       </list>
     </recent_temporary>
   </component>
@@ -469,7 +457,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760684889063</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="18th Oct 2025">
+      <option name="closed" value="true" />
+      <created>1760793604217</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1760793604217</updated>
+    </task>
+    <task id="LOCAL-00024" summary="18th Oct 25">
+      <option name="closed" value="true" />
+      <created>1760793677038</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1760793677038</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,7 +501,9 @@
     <MESSAGE value="11th Oct 25" />
     <MESSAGE value="12th Oct 2025" />
     <MESSAGE value="17th Oct 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="17th Oct 2025" />
+    <MESSAGE value="18th Oct 2025" />
+    <MESSAGE value="18th Oct 25" />
+    <option name="LAST_COMMIT_MESSAGE" value="18th Oct 25" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
