@@ -5,5 +5,5 @@ public class Lab164_nos_1_to_10 {
         for (int i = 1; i <= 10 ; i++) {
             System.out.println(i);
         }
-    }
-}
+    }}
+

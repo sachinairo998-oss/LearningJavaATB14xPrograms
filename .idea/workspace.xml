@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="24 Oct 25">
+    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="26 Oct 25">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/For_Oct_26/Lab164_nos_1_to_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/For_Oct_26/Lab164_nos_1_to_10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,180 +44,180 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BonusCalculator.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.Lab100_Reverse_String.executor": "Run",
-    "Application.Lab101_Count_Words_In_String.executor": "Run",
-    "Application.Lab102_First_Letter_of_Each_Word.executor": "Run",
-    "Application.Lab103_Second_Max_num.executor": "Run",
-    "Application.Lab104_String_Func.executor": "Run",
-    "Application.Lab105_String_Builder_Vs_Buffer.executor": "Run",
-    "Application.Lab106_SB.executor": "Run",
-    "Application.Lab107_String_Builder.executor": "Run",
-    "Application.Lab108_String_Builder_2.executor": "Run",
-    "Application.Lab109_SB_2.executor": "Run",
-    "Application.Lab110_Arrays.executor": "Run",
-    "Application.Lab111_Array.executor": "Run",
-    "Application.Lab111_Positive_Negative.executor": "Run",
-    "Application.Lab112_Arrays_Print.executor": "Run",
-    "Application.Lab112_Even_Odd.executor": "Run",
-    "Application.Lab113_Arrays_Max_Min.executor": "Run",
-    "Application.Lab113_Maximum_Two_Nos.executor": "Run",
-    "Application.Lab114_User_Inputs.executor": "Run",
-    "Application.Lab114_Vowel_Consonant.executor": "Run",
-    "Application.Lab115_Eligible_Vote_Age.executor": "Run",
-    "Application.Lab115_Sum_Of_Arrays.executor": "Run",
-    "Application.Lab116_Sec_High_No.executor": "Run",
-    "Application.Lab117_String_CLI.executor": "Run",
-    "Application.Lab118_2D.executor": "Run",
-    "Application.Lab120_Right_Triangle.executor": "Debug",
-    "Application.Lab121_Inverted_Right_Triangle.executor": "Run",
-    "Application.Lab124_Left_Aligned_Right_Angled_Triangle.executor": "Run",
-    "Application.Lab124_Right_Triangle.executor": "Run",
-    "Application.Lab125_Inverted_Left_Aligned_Right_Angled_Triangle.executor": "Run",
-    "Application.Lab125_Inverted_Right_Triangle.executor": "Run",
-    "Application.Lab126_Left_Triangle.executor": "Run",
-    "Application.Lab126_Right_Angled_Triangle.executor": "Run",
-    "Application.Lab127_Buffer_Reader_Input.executor": "Run",
-    "Application.Lab129_Oops.executor": "Run",
-    "Application.Lab12_Printf_9Table.executor": "Run",
-    "Application.Lab130_Constructor.executor": "Run",
-    "Application.Lab132_Cats_OOPs.executor": "Run",
-    "Application.Lab139_Largest_of_Three_Numbers.executor": "Run",
-    "Application.Lab140_Smallest_of_Two_Numbers.executor": "Run",
-    "Application.Lab141_Smallest_of_Three_Numbers.executor": "Run",
-    "Application.Lab142_Year_is_Leap_Year.executor": "Run",
-    "Application.Lab143_Grade_Based_on_Marks.executor": "Run",
-    "Application.Lab144_Character_is_Alphabet.executor": "Run",
-    "Application.Lab145_Number_is_Prime.executor": "Run",
-    "Application.Lab146_ATM_Withdrawal_Simulation.executor": "Run",
-    "Application.Lab147_Triangle_Valid_Three_Sides.executor": "Run",
-    "Application.Lab148_Calculator.executor": "Run",
-    "Application.Lab149_WebUIAutomation.executor": "Run",
-    "Application.Lab151_MO.executor": "Run",
-    "Application.Lab152_Encap.executor": "Run",
-    "Application.Lab153_Palindrome.executor": "Run",
-    "Application.Lab154_Armstrong_Number.executor": "Run",
-    "Application.Lab155_Loan_Eligible.executor": "Run",
-    "Application.Lab156_Electricity_Bill_Cal.executor": "Run",
-    "Application.Lab157_Cal_Bonus_Sal.executor": "Run",
-    "Application.Lab158_Cal_Employee_Net_Sal.executor": "Run",
-    "Application.Lab159_Visa_Status_Age.executor": "Run",
-    "Application.Lab160_Num_Divisible_by_5_11.executor": "Run",
-    "Application.Lab161_Convert_Days_to_Years_Months_Days.executor": "Run",
-    "Application.Lab162_Website_based_on_Domain.executor": "Run",
-    "Application.Lab163_Senoir_Citizen_age.executor": "Run",
-    "Application.Lab164_nos_1_to_10.executor": "Run",
-    "Application.Lab165_even_nos_1_to_20.executor": "Run",
-    "Application.Lab166_Hello_5_times.executor": "Run",
-    "Application.Lab167_sum_of_first_10_natural_nos.executor": "Run",
-    "Application.Lab168_multiplication_table_5.executor": "Run",
-    "Application.Lab169_nos_from_1_to_10.executor": "Run",
-    "Application.Lab170_even_nos_1_to_20.executor": "Run",
-    "Application.Lab171_Java_5_times.executor": "Run",
-    "Application.Lab172_sum_of_first_10_natural_nos.executor": "Run",
-    "Application.Lab173_multiplication_table_7.executor": "Run",
-    "Application.Lab22_Concat_Inter.executor": "Run",
-    "Application.Lab23_Bodmas.executor": "Run",
-    "Application.Lab24_EqualS_Operator.executor": "Run",
-    "Application.Lab25_Arithmetic.executor": "Run",
-    "Application.Lab26_OR_AND_Gates.executor": "Run",
-    "Application.Lab27_All_Operators.executor": "Run",
-    "Application.Lab30_Interview.executor": "Run",
-    "Application.Lab32_Char_Int.executor": "Run",
-    "Application.Lab33_TypeCasting_1.executor": "Run",
-    "Application.Lab34_TypeCasting_Used.executor": "Run",
-    "Application.Lab35_Ternary_1.executor": "Run",
-    "Application.Lab36_Nested_Ternary.executor": "Run",
-    "Application.Lab37_Math_Max.executor": "Run",
-    "Application.Lab38_Even_Odd.executor": "Run",
-    "Application.Lab39_Max_Nos_3.executor": "Run",
-    "Application.Lab40_Age.executor": "Run",
-    "Application.Lab41_CLI_Inputs.executor": "Run",
-    "Application.Lab41_Inc.executor": "Run",
-    "Application.Lab42_Adv_Inc.executor": "Debug",
-    "Application.Lab43_If.executor": "Debug",
-    "Application.Lab43_If_Cond.executor": "Coverage",
-    "Application.Lab44_If_Cond.executor": "Run",
-    "Application.Lab45_Scanner.executor": "Debug",
-    "Application.Lab46_If.executor": "Run",
-    "Application.Lab47_If_ElseIf_Else.executor": "Run",
-    "Application.Lab48_7Days.executor": "Run",
-    "Application.Lab48_Days.executor": "Run",
-    "Application.Lab48_SwitchDays.executor": "Run",
-    "Application.Lab48_Switch_7Days.executor": "Run",
-    "Application.Lab49_Without_Break.executor": "Run",
-    "Application.Lab50_RealSwitch (1).executor": "Run",
-    "Application.Lab50_RealSwitch.executor": "Run",
-    "Application.Lab52_Interview2.executor": "Run",
-    "Application.Lab53_Jdk13Above.executor": "Run",
-    "Application.Lab54_Jdk13.executor": "Run",
-    "Application.Lab55_Interview3.executor": "Run",
-    "Application.Lab56_Interview4.executor": "Run",
-    "Application.Lab57_L1.executor": "Run",
-    "Application.Lab58_Var_Loop.executor": "Run",
-    "Application.Lab59_Cond_Fail.executor": "Run",
-    "Application.Lab60_NoCond.executor": "Run",
-    "Application.Lab61_For_If_Loop.executor": "Run",
-    "Application.Lab62_Interview.executor": "Run",
-    "Application.Lab65_Loop_Decrement.executor": "Run",
-    "Application.Lab66_Greater_Equal.executor": "Run",
-    "Application.Lab67_Even_Odd_If_Loop.executor": "Run",
-    "Application.Lab68_Loop_Break.executor": "Run",
-    "Application.Lab69_Loop_Continue.executor": "Run",
-    "Application.Lab70_Loop_Continue_Even_Odd.executor": "Run",
-    "Application.Lab71_RealCase.executor": "Run",
-    "Application.Lab73_While.executor": "Run",
-    "Application.Lab74_While2.executor": "Run",
-    "Application.Lab75_Interview.executor": "Run",
-    "Application.Lab76_While_String.executor": "Run",
-    "Application.Lab77_Decrement.executor": "Run",
-    "Application.Lab78_Factorial.executor": "Run",
-    "Application.Lab79_While_Guessing_Game.executor": "Run",
-    "Application.Lab80_DoWhile.executor": "Run",
-    "Application.Lab81_DoWhile_Condition.executor": "Run",
-    "Application.Lab82_Real.executor": "Run",
-    "Application.Lab83_FizzBuzz_Test.executor": "Run",
-    "Application.Lab84_Function.executor": "Run",
-    "Application.Lab84_Grade_Calculator.executor": "Run",
-    "Application.Lab85_Methods.executor": "Run",
-    "Application.Lab86_SimpleMethod.executor": "Run",
-    "Application.Lab86_Simple_Method.executor": "Run",
-    "Application.Lab87_User_Defined_Method.executor": "Run",
-    "Application.Lab88_UD_Part1.executor": "Run",
-    "Application.Lab90_Function_Arth.executor": "Run",
-    "Application.Lab91_String_Immutable.executor": "Run",
-    "Application.Lab93_String_Imm.executor": "Run",
-    "Application.Lab94_String_Func.executor": "Run",
-    "Application.Lab95_Strings_Interviews.executor": "Run",
-    "Application.Lab96_Interviews.executor": "Run",
-    "Application.Lab97_String_Ex.executor": "Run",
-    "Application.Lab97_String_Example.executor": "Run",
-    "Application.Lab98_Example.executor": "Run",
-    "Application.Lab99_Example3.executor": "Run",
-    "Application.ex_09_For_Loop.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Sanjana/IdeaProjects/LearningJavaATB14xPrograms/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BonusCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab100_Reverse_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab101_Count_Words_In_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab102_First_Letter_of_Each_Word.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab103_Second_Max_num.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab104_String_Func.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab105_String_Builder_Vs_Buffer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab106_SB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab107_String_Builder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab108_String_Builder_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab109_SB_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab110_Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab111_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab111_Positive_Negative.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab112_Arrays_Print.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab112_Even_Odd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab113_Arrays_Max_Min.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab113_Maximum_Two_Nos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab114_User_Inputs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab114_Vowel_Consonant.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab115_Eligible_Vote_Age.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab115_Sum_Of_Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab116_Sec_High_No.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab117_String_CLI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab118_2D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab120_Right_Triangle.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab121_Inverted_Right_Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab124_Left_Aligned_Right_Angled_Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab124_Right_Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab125_Inverted_Left_Aligned_Right_Angled_Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab125_Inverted_Right_Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab126_Left_Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab126_Right_Angled_Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab127_Buffer_Reader_Input.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab129_Oops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab12_Printf_9Table.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab130_Constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab132_Cats_OOPs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab139_Largest_of_Three_Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab140_Smallest_of_Two_Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab141_Smallest_of_Three_Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab142_Year_is_Leap_Year.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab143_Grade_Based_on_Marks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab144_Character_is_Alphabet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab145_Number_is_Prime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab146_ATM_Withdrawal_Simulation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab147_Triangle_Valid_Three_Sides.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab148_Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab149_WebUIAutomation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab151_MO.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab152_Encap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab153_Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab154_Armstrong_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab155_Loan_Eligible.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab156_Electricity_Bill_Cal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab157_Cal_Bonus_Sal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab158_Cal_Employee_Net_Sal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab159_Visa_Status_Age.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab160_Num_Divisible_by_5_11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab161_Convert_Days_to_Years_Months_Days.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab162_Website_based_on_Domain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab163_Senoir_Citizen_age.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab164_nos_1_to_10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab165_even_nos_1_to_20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab166_Hello_5_times.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab167_sum_of_first_10_natural_nos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab168_multiplication_table_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab169_nos_from_1_to_10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab170_even_nos_1_to_20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab171_Java_5_times.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab172_sum_of_first_10_natural_nos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab173_multiplication_table_7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab22_Concat_Inter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab23_Bodmas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab24_EqualS_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab25_Arithmetic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab26_OR_AND_Gates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab27_All_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab30_Interview.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab32_Char_Int.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab33_TypeCasting_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab34_TypeCasting_Used.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab35_Ternary_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab36_Nested_Ternary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab37_Math_Max.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab38_Even_Odd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab39_Max_Nos_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab40_Age.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab41_CLI_Inputs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab41_Inc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab42_Adv_Inc.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab43_If.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab43_If_Cond.executor&quot;: &quot;Coverage&quot;,
+    &quot;Application.Lab44_If_Cond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab45_Scanner.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab46_If.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab47_If_ElseIf_Else.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab48_7Days.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab48_Days.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab48_SwitchDays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab48_Switch_7Days.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab49_Without_Break.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab50_RealSwitch (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab50_RealSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab52_Interview2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab53_Jdk13Above.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab54_Jdk13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab55_Interview3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab56_Interview4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab57_L1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab58_Var_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab59_Cond_Fail.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab60_NoCond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab61_For_If_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab62_Interview.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab65_Loop_Decrement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab66_Greater_Equal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab67_Even_Odd_If_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab68_Loop_Break.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab69_Loop_Continue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab70_Loop_Continue_Even_Odd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab71_RealCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab73_While.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab74_While2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab75_Interview.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab76_While_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab77_Decrement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab78_Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab79_While_Guessing_Game.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab80_DoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab81_DoWhile_Condition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab82_Real.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab83_FizzBuzz_Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab84_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab84_Grade_Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab85_Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab86_SimpleMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab86_Simple_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab87_User_Defined_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab88_UD_Part1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab90_Function_Arth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab91_String_Immutable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab93_String_Imm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab94_String_Func.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab95_Strings_Interviews.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab96_Interviews.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab97_String_Ex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab97_String_Example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab98_Example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab99_Example3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex_09_For_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Sanjana/IdeaProjects/LearningJavaATB14xPrograms/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Lab173_multiplication_table_7">
-    <configuration name="Lab167_sum_of_first_10_natural_nos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.For_Oct_26.For_Oct26.Lab167_sum_of_first_10_natural_nos" />
+    <configuration name="Lab169_nos_from_1_to_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.While_Oct_26.Lab169_nos_from_1_to_10" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.For_Oct_26.For_Oct26.*" />
+          <option name="PATTERN" value="Task.While_Oct_26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab168_multiplication_table_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.For_Oct_26.For_Oct26.Lab168_multiplication_table_5" />
+    <configuration name="Lab170_even_nos_1_to_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.While_Oct_26.Lab170_even_nos_1_to_20" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.For_Oct_26.For_Oct26.*" />
+          <option name="PATTERN" value="Task.While_Oct_26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,11 +239,11 @@
       </method>
     </configuration>
     <configuration name="Lab171_Java_5_times" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="While_Oct_26.Lab171_Java_5_times" />
+      <option name="MAIN_CLASS_NAME" value="Task.While_Oct_26.Lab171_Java_5_times" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="While_Oct_26.*" />
+          <option name="PATTERN" value="Task.While_Oct_26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,11 +252,11 @@
       </method>
     </configuration>
     <configuration name="Lab172_sum_of_first_10_natural_nos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="While_Oct_26.Lab172_sum_of_first_10_natural_nos" />
+      <option name="MAIN_CLASS_NAME" value="Task.While_Oct_26.Lab172_sum_of_first_10_natural_nos" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="While_Oct_26.*" />
+          <option name="PATTERN" value="Task.While_Oct_26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,11 +265,11 @@
       </method>
     </configuration>
     <configuration name="Lab173_multiplication_table_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="While_Oct_26.Lab173_multiplication_table_7" />
+      <option name="MAIN_CLASS_NAME" value="Task.While_Oct_26.Lab173_multiplication_table_7" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="While_Oct_26.*" />
+          <option name="PATTERN" value="Task.While_Oct_26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,8 +278,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab167_sum_of_first_10_natural_nos" />
-      <item itemvalue="Application.Lab168_multiplication_table_5" />
+      <item itemvalue="Application.Lab169_nos_from_1_to_10" />
+      <item itemvalue="Application.Lab170_even_nos_1_to_20" />
       <item itemvalue="Application.Lab171_Java_5_times" />
       <item itemvalue="Application.Lab172_sum_of_first_10_natural_nos" />
       <item itemvalue="Application.Lab173_multiplication_table_7" />
@@ -286,10 +287,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Lab173_multiplication_table_7" />
-        <item itemvalue="Application.Lab168_multiplication_table_5" />
         <item itemvalue="Application.Lab172_sum_of_first_10_natural_nos" />
-        <item itemvalue="Application.Lab167_sum_of_first_10_natural_nos" />
         <item itemvalue="Application.Lab171_Java_5_times" />
+        <item itemvalue="Application.Lab170_even_nos_1_to_20" />
+        <item itemvalue="Application.Lab169_nos_from_1_to_10" />
       </list>
     </recent_temporary>
   </component>
@@ -525,7 +526,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761283982535</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="26 Oct 2025">
+      <option name="closed" value="true" />
+      <created>1761481095342</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1761481095342</updated>
+    </task>
+    <task id="LOCAL-00030" summary="26 Oct 25">
+      <option name="closed" value="true" />
+      <created>1761481309074</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1761481309074</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -558,7 +575,9 @@
     <MESSAGE value="23rd Oct 25" />
     <MESSAGE value="23 Oct 25" />
     <MESSAGE value="24 Oct 25" />
-    <option name="LAST_COMMIT_MESSAGE" value="24 Oct 25" />
+    <MESSAGE value="26 Oct 2025" />
+    <MESSAGE value="26 Oct 25" />
+    <option name="LAST_COMMIT_MESSAGE" value="26 Oct 25" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
