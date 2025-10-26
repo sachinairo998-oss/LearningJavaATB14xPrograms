@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="23 Oct 25">
+    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="24 Oct 25">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +107,17 @@
     "Application.Lab160_Num_Divisible_by_5_11.executor": "Run",
     "Application.Lab161_Convert_Days_to_Years_Months_Days.executor": "Run",
     "Application.Lab162_Website_based_on_Domain.executor": "Run",
+    "Application.Lab163_Senoir_Citizen_age.executor": "Run",
+    "Application.Lab164_nos_1_to_10.executor": "Run",
+    "Application.Lab165_even_nos_1_to_20.executor": "Run",
+    "Application.Lab166_Hello_5_times.executor": "Run",
+    "Application.Lab167_sum_of_first_10_natural_nos.executor": "Run",
+    "Application.Lab168_multiplication_table_5.executor": "Run",
+    "Application.Lab169_nos_from_1_to_10.executor": "Run",
+    "Application.Lab170_even_nos_1_to_20.executor": "Run",
+    "Application.Lab171_Java_5_times.executor": "Run",
+    "Application.Lab172_sum_of_first_10_natural_nos.executor": "Run",
+    "Application.Lab173_multiplication_table_7.executor": "Run",
     "Application.Lab22_Concat_Inter.executor": "Run",
     "Application.Lab23_Bodmas.executor": "Run",
     "Application.Lab24_EqualS_Operator.executor": "Run",
@@ -199,13 +210,13 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab163_Senoir_Citizen_age">
-    <configuration name="Lab159_Visa_Status_Age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18_If_Else.Lab159_Visa_Status_Age" />
+  <component name="RunManager" selected="Application.Lab173_multiplication_table_7">
+    <configuration name="Lab167_sum_of_first_10_natural_nos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.For_Oct_26.Lab167_sum_of_first_10_natural_nos" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_18_If_Else.*" />
+          <option name="PATTERN" value="Task.For_Oct_26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,12 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab160_Num_Divisible_by_5_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18_If_Else.Lab160_Num_Divisible_by_5_11" />
+    <configuration name="Lab168_multiplication_table_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.For_Oct_26.Lab168_multiplication_table_5" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_18_If_Else.*" />
+          <option name="PATTERN" value="Task.For_Oct_26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,12 +237,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab161_Convert_Days_to_Years_Months_Days" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18_If_Else.Lab161_Convert_Days_to_Years_Months_Days" />
+    <configuration name="Lab171_Java_5_times" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="While_Oct_26.Lab171_Java_5_times" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_18_If_Else.*" />
+          <option name="PATTERN" value="While_Oct_26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,12 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab162_Website_based_on_Domain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18_If_Else.Lab162_Website_based_on_Domain" />
+    <configuration name="Lab172_sum_of_first_10_natural_nos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="While_Oct_26.Lab172_sum_of_first_10_natural_nos" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_18_If_Else.*" />
+          <option name="PATTERN" value="While_Oct_26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab163_Senoir_Citizen_age" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_18_If_Else.Lab163_Senoir_Citizen_age" />
+    <configuration name="Lab173_multiplication_table_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="While_Oct_26.Lab173_multiplication_table_7" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_18_If_Else.*" />
+          <option name="PATTERN" value="While_Oct_26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,19 +277,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab160_Num_Divisible_by_5_11" />
-      <item itemvalue="Application.Lab161_Convert_Days_to_Years_Months_Days" />
-      <item itemvalue="Application.Lab162_Website_based_on_Domain" />
-      <item itemvalue="Application.Lab163_Senoir_Citizen_age" />
-      <item itemvalue="Application.Lab159_Visa_Status_Age" />
+      <item itemvalue="Application.Lab167_sum_of_first_10_natural_nos" />
+      <item itemvalue="Application.Lab168_multiplication_table_5" />
+      <item itemvalue="Application.Lab171_Java_5_times" />
+      <item itemvalue="Application.Lab172_sum_of_first_10_natural_nos" />
+      <item itemvalue="Application.Lab173_multiplication_table_7" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab163_Senoir_Citizen_age" />
-        <item itemvalue="Application.Lab162_Website_based_on_Domain" />
-        <item itemvalue="Application.Lab161_Convert_Days_to_Years_Months_Days" />
-        <item itemvalue="Application.Lab160_Num_Divisible_by_5_11" />
-        <item itemvalue="Application.Lab159_Visa_Status_Age" />
+        <item itemvalue="Application.Lab173_multiplication_table_7" />
+        <item itemvalue="Application.Lab168_multiplication_table_5" />
+        <item itemvalue="Application.Lab172_sum_of_first_10_natural_nos" />
+        <item itemvalue="Application.Lab167_sum_of_first_10_natural_nos" />
+        <item itemvalue="Application.Lab171_Java_5_times" />
       </list>
     </recent_temporary>
   </component>
@@ -506,7 +517,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761202259020</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="24 Oct 25">
+      <option name="closed" value="true" />
+      <created>1761283982535</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1761283982535</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -538,7 +557,8 @@
     <MESSAGE value="18th Oct 25" />
     <MESSAGE value="23rd Oct 25" />
     <MESSAGE value="23 Oct 25" />
-    <option name="LAST_COMMIT_MESSAGE" value="23 Oct 25" />
+    <MESSAGE value="24 Oct 25" />
+    <option name="LAST_COMMIT_MESSAGE" value="24 Oct 25" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
