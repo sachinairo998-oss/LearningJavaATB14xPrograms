@@ -1,4 +1,4 @@
-package While_Oct_26;
+package Task.While_Oct_26;
 
 public class Lab173_multiplication_table_7 {
     public static void main(String[] args) {

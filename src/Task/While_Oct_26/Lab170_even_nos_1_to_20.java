@@ -1,4 +1,4 @@
-package While_Oct_26;
+package Task.While_Oct_26;
 
 public class Lab170_even_nos_1_to_20 {
     public static void main(String[] args) {

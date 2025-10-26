@@ -212,11 +212,11 @@
 }]]></component>
   <component name="RunManager" selected="Application.Lab173_multiplication_table_7">
     <configuration name="Lab167_sum_of_first_10_natural_nos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.For_Oct_26.Lab167_sum_of_first_10_natural_nos" />
+      <option name="MAIN_CLASS_NAME" value="Task.For_Oct_26.For_Oct26.Lab167_sum_of_first_10_natural_nos" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.For_Oct_26.*" />
+          <option name="PATTERN" value="Task.For_Oct_26.For_Oct26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,11 +225,11 @@
       </method>
     </configuration>
     <configuration name="Lab168_multiplication_table_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.For_Oct_26.Lab168_multiplication_table_5" />
+      <option name="MAIN_CLASS_NAME" value="Task.For_Oct_26.For_Oct26.Lab168_multiplication_table_5" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task.For_Oct_26.*" />
+          <option name="PATTERN" value="Task.For_Oct_26.For_Oct26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
