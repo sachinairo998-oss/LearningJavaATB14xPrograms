@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="26 Oct 2025">
+    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="1 Nov 2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,6 +129,12 @@
     "Application.Lab189_Throws.executor": "Run",
     "Application.Lab190_Custom_Exception.executor": "Run",
     "Application.Lab190_LabThrow.executor": "Run",
+    "Application.Lab191_LabFinalize.executor": "Run",
+    "Application.Lab192_Throws.executor": "Run",
+    "Application.Lab193_Finally_Not_Executed.executor": "Run",
+    "Application.Lab200_List.executor": "Run",
+    "Application.Lab201_Array_List.executor": "Run",
+    "Application.Lab203_ArrayList3.executor": "Run",
     "Application.Lab22_Concat_Inter.executor": "Run",
     "Application.Lab23_Bodmas.executor": "Run",
     "Application.Lab24_EqualS_Operator.executor": "Run",
@@ -221,9 +227,9 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab191_LabFinalize">
-    <configuration name="Lab187_Checked" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_27_Exception.Lab187_Checked" />
+  <component name="RunManager" selected="Application.Lab204_ArrayList_Input">
+    <configuration name="Lab193_Finally_Not_Executed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_27_Exception.Lab193_Finally_Not_Executed" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
@@ -235,12 +241,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab188_Try_Catch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_27_Exception.Lab188_Try_Catch" />
+    <configuration name="Lab200_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_30_Collections_Framework.Lab200_List" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_27_Exception.*" />
+          <option name="PATTERN" value="ex_30_Collections_Framework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,12 +254,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab189_Throws" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_27_Exception.Lab189_Throws" />
+    <configuration name="Lab201_Array_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_30_Collections_Framework.Lab201_Array_List" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_27_Exception.*" />
+          <option name="PATTERN" value="ex_30_Collections_Framework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,12 +267,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab190_LabThrow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_27_Exception.Lab190_LabThrow" />
+    <configuration name="Lab203_ArrayList3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_30_Collections_Framework.Lab203_ArrayList3" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_27_Exception.*" />
+          <option name="PATTERN" value="ex_30_Collections_Framework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,12 +280,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab191_LabFinalize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_27_Exception.Lab191_LabFinalize" />
+    <configuration name="Lab204_ArrayList_Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_30_Collections_Framework.Lab204_ArrayList_Input" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_27_Exception.*" />
+          <option name="PATTERN" value="ex_30_Collections_Framework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,19 +294,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab187_Checked" />
-      <item itemvalue="Application.Lab188_Try_Catch" />
-      <item itemvalue="Application.Lab189_Throws" />
-      <item itemvalue="Application.Lab190_LabThrow" />
-      <item itemvalue="Application.Lab191_LabFinalize" />
+      <item itemvalue="Application.Lab193_Finally_Not_Executed" />
+      <item itemvalue="Application.Lab200_List" />
+      <item itemvalue="Application.Lab201_Array_List" />
+      <item itemvalue="Application.Lab203_ArrayList3" />
+      <item itemvalue="Application.Lab204_ArrayList_Input" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab191_LabFinalize" />
-        <item itemvalue="Application.Lab190_LabThrow" />
-        <item itemvalue="Application.Lab189_Throws" />
-        <item itemvalue="Application.Lab188_Try_Catch" />
-        <item itemvalue="Application.Lab187_Checked" />
+        <item itemvalue="Application.Lab204_ArrayList_Input" />
+        <item itemvalue="Application.Lab203_ArrayList3" />
+        <item itemvalue="Application.Lab201_Array_List" />
+        <item itemvalue="Application.Lab200_List" />
+        <item itemvalue="Application.Lab193_Finally_Not_Executed" />
       </list>
     </recent_temporary>
   </component>
@@ -560,7 +566,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761491138040</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="1 Nov 2025">
+      <option name="closed" value="true" />
+      <created>1762009697613</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1762009697613</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -595,7 +609,8 @@
     <MESSAGE value="24 Oct 25" />
     <MESSAGE value="26 Oct 25" />
     <MESSAGE value="26 Oct 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="26 Oct 2025" />
+    <MESSAGE value="1 Nov 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 Nov 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -628,6 +643,10 @@
           </properties>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.Exception" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
