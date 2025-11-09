@@ -1,4 +1,4 @@
-package ex_30_Collections_Framework;
+package ex_30_Collections_Framework.CF_01_LIST;
 
 public class Lab199_Array_Problem {
     public static void main(String[] args) {
