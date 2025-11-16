@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="2 Nov 2025">
+    <list default="true" id="628e224e-1df9-4122-8a5f-65fd89409297" name="Changes" comment="9 Nov 2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_30_Collections_Framework/Lab199_Array_Problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_30_Collections_Framework/CF_01_LIST/Lab199_Array_Problem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_30_Collections_Framework/Lab200_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_30_Collections_Framework/CF_01_LIST/Lab200_List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_30_Collections_Framework/Lab201_Array_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_30_Collections_Framework/CF_01_LIST/Lab201_Array_List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_30_Collections_Framework/Lab202_ArrayList2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_30_Collections_Framework/CF_01_LIST/Lab202_ArrayList2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_30_Collections_Framework/Lab203_ArrayList3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_30_Collections_Framework/CF_01_LIST/Lab203_ArrayList3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_30_Collections_Framework/Lab204_ArrayList_Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_30_Collections_Framework/CF_01_LIST/Lab204_ArrayList_Input.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +149,21 @@
     "Application.Lab216_Map.executor": "Run",
     "Application.Lab217_Map_Iterate.executor": "Run",
     "Application.Lab218_HashTable.executor": "Run",
+    "Application.Lab219_Person_Class_Implementation.executor": "Run",
+    "Application.Lab220_Student_Management_System.executor": "Run",
+    "Application.Lab221_Bank_Account_Encapsulation.executor": "Run",
+    "Application.Lab221_Employee_Encapsulation.executor": "Run",
+    "Application.Lab223_Animal_Sound_Polymorphism.executor": "Run",
+    "Application.Lab224_Vehicle_Inheritance_Hierarchy.executor": "Run",
+    "Application.Lab225_Employee_Hierarchy_with_Salary_Calculation.executor": "Run",
+    "Application.Lab226_Abstract_Shape_Implementation.executor": "Run",
+    "Application.Lab227_Drawable_Interface_Implementation.executor": "Run",
+    "Application.Lab228_Multiple_Interface_Implementation.executor": "Run",
+    "Application.Lab229_Calculator_Method_Overloading.executor": "Run",
     "Application.Lab22_Concat_Inter.executor": "Run",
+    "Application.Lab230_Method_Overriding_Demo.executor": "Run",
+    "Application.Lab231_Outer_and_Inner_Class_Implementation.executor": "Run",
+    "Application.Lab232_Multi_Exception_Handling.executor": "Run",
     "Application.Lab23_Bodmas.executor": "Run",
     "Application.Lab24_EqualS_Operator.executor": "Run",
     "Application.Lab25_Arithmetic.executor": "Run",
@@ -249,13 +257,13 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LabComparator">
-    <configuration name="Lab216_Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_30_Collections_Framework.CF_04_MAP.Lab216_Map" />
+  <component name="RunManager" selected="Application.Lab233_Custom_Exception_Implementation">
+    <configuration name="Lab229_Calculator_Method_Overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.Nov16.Lab229_Calculator_Method_Overloading" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_30_Collections_Framework.CF_04_MAP.*" />
+          <option name="PATTERN" value="Task.Nov16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,12 +271,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab217_Map_Iterate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_30_Collections_Framework.CF_04_MAP.Lab217_Map_Iterate" />
+    <configuration name="Lab230_Method_Overriding_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.Nov16.Lab230_Method_Overriding_Demo" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_30_Collections_Framework.CF_04_MAP.*" />
+          <option name="PATTERN" value="Task.Nov16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,12 +284,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab218_HashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_30_Collections_Framework.CF_04_MAP.Lab218_HashTable" />
+    <configuration name="Lab231_Outer_and_Inner_Class_Implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.Nov16.Lab231_Outer_and_Inner_Class_Implementation" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_30_Collections_Framework.CF_04_MAP.*" />
+          <option name="PATTERN" value="Task.Nov16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,12 +297,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LabComparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_30_Collections_Framework.CF_05_Comparable_Vs_Comparator.LabComparable" />
+    <configuration name="Lab232_Multi_Exception_Handling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.Nov16.Lab232_Multi_Exception_Handling" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_30_Collections_Framework.CF_05_Comparable_Vs_Comparator.*" />
+          <option name="PATTERN" value="Task.Nov16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,12 +310,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LabComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_30_Collections_Framework.CF_05_Comparable_Vs_Comparator.LabComparator" />
+    <configuration name="Lab233_Custom_Exception_Implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.Nov16.Lab233_Custom_Exception_Implementation" />
       <module name="LearningJavaATB14xPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_30_Collections_Framework.CF_05_Comparable_Vs_Comparator.*" />
+          <option name="PATTERN" value="Task.Nov16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,19 +324,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab216_Map" />
-      <item itemvalue="Application.Lab217_Map_Iterate" />
-      <item itemvalue="Application.Lab218_HashTable" />
-      <item itemvalue="Application.LabComparable" />
-      <item itemvalue="Application.LabComparator" />
+      <item itemvalue="Application.Lab229_Calculator_Method_Overloading" />
+      <item itemvalue="Application.Lab230_Method_Overriding_Demo" />
+      <item itemvalue="Application.Lab231_Outer_and_Inner_Class_Implementation" />
+      <item itemvalue="Application.Lab232_Multi_Exception_Handling" />
+      <item itemvalue="Application.Lab233_Custom_Exception_Implementation" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LabComparator" />
-        <item itemvalue="Application.LabComparable" />
-        <item itemvalue="Application.Lab218_HashTable" />
-        <item itemvalue="Application.Lab217_Map_Iterate" />
-        <item itemvalue="Application.Lab216_Map" />
+        <item itemvalue="Application.Lab233_Custom_Exception_Implementation" />
+        <item itemvalue="Application.Lab232_Multi_Exception_Handling" />
+        <item itemvalue="Application.Lab231_Outer_and_Inner_Class_Implementation" />
+        <item itemvalue="Application.Lab230_Method_Overriding_Demo" />
+        <item itemvalue="Application.Lab229_Calculator_Method_Overloading" />
       </list>
     </recent_temporary>
   </component>
@@ -604,7 +612,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762081941952</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="9 Nov 2025">
+      <option name="closed" value="true" />
+      <created>1762697771676</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1762697771676</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -641,7 +657,8 @@
     <MESSAGE value="26 Oct 2025" />
     <MESSAGE value="1 Nov 2025" />
     <MESSAGE value="2 Nov 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 Nov 2025" />
+    <MESSAGE value="9 Nov 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="9 Nov 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
